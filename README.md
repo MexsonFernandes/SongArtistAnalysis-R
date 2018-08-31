@@ -17,3 +17,12 @@ R script to analyze two different music artist based on the words used in albums
   - devtools::install_github("josiahparry/geniusR")
   - install.packages("tidyverse")
   - install.packages("tidytext")
+  
+# for album:
+  Ed_Sheeran = genius_album(artist = "Ed Sheeran", album = "Divide")
+
+# for singles:
+  Shawn_Mendes_lyrics = genius_lyrics(artist = "Shawn Mendes", song = "In My Blood")
+  
+# Sample:
+  <img src="sample.png" width="640px" height="480px">
