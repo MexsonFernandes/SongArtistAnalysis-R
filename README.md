@@ -2,6 +2,8 @@
 
 R script to analyze two different music artist based on the words used in albums or songs. I have used geniusR library to gather the songs lyrics.
 
+<a href='https://ko-fi.com/Y8Y31LBT4' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 # Requirements (R libraries):
   - geniusR (to mine song lyrics)
   - tidyverse (to manipulate data and for visualization)
